@@ -1,0 +1,15 @@
+.girl-container {
+     text-align: center; 
+    display: inline-block; 
+    /* margin-bottom: 10px; */
+}
+.girl {
+    /* padding: 5px; */
+     border: 1px solid lightblue; 
+    height: 200px;
+}
+
+.girl:hover {
+    -webkit-animation: pulse 1s;
+    animation: pulse 1s;
+}
