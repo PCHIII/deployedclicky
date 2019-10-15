@@ -10,6 +10,6 @@
 }
 
 .girl:hover {
-    -webkit-animation: pulse 1s;
-    animation: pulse 1s;
+    -webkit-animation: tada 1s;
+    animation: tada 1s;
 }
