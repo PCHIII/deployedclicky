@@ -1,11 +1,12 @@
 
 .header-bar {
-    margin: 0 auto;
-    text-align: center;
+    margin: 0 auto; 
+     text-align: center;
 }
 .header-items {
-    display: inline-block;
+    /* display: inline-block; */
     font-size: 30px;
+    /* justify-items: end; */
 }
 .divide {
     color: black;
