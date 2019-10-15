@@ -1,13 +1,7 @@
 
-.header-bar {
-    margin: 0 auto; 
-     text-align: center;
-}
+
 .header-items {
-    /* display: inline-block; */
-    font-size: 30px;
-    /* justify-items: end; */
-}
-.divide {
-    color: black;
+    
+    font-size: 33px;
+    
 }
