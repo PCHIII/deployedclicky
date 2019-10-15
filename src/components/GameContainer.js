@@ -65,19 +65,18 @@ class GameContainer extends Component {
                 topScore: this.state.currentScore + 1 > this.state.topScore ? this.state.currentScore + 1 : this.state.topScore
             });
         } else {
-            alert("already clicked her!!!!");
+            alert("You already clicked her, please try again.");
             this.resetGame();
         }
 
     }
 
-    // Was trying to do a ternary operator within the render component but couldn't get it to work
+    // render win
     renderWinMessage = () => {
         if (this.state.topScore === 12) {
-            // return <div className="win-message">
+           
                 alert("You win!")
-                // <p>Nice Job!</p>
-            // </div>
+             
         }
     }
     render() {

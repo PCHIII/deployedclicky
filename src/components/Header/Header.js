@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.css";
 
 const Header = props => (
-    // <header>
+    
       <div className="nav-bar navbar-expand-lg text-center p-3 bg-primary text-white">
         <div className="col-4 header-items">
           <button onClick={props.resetGame} className="reload-link btn btn-dark btn-lg">
@@ -17,7 +17,7 @@ const Header = props => (
           </span>
         </div>
       </div>
-    // </header>
+    
 );
 
 export default Header;

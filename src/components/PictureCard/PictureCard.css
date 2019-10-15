@@ -1,12 +1,12 @@
 .girl-container {
      text-align: center; 
-    display: inline-block; 
-    /* margin-bottom: 10px; */
+     display: inline-block;  
+     /* margin-bottom: 10px; */
 }
 .girl {
-    /* padding: 5px; */
+    /* padding: 3px; */
      border: 1px solid lightblue; 
-    height: 200px;
+    height: 250px;
 }
 
 .girl:hover {
