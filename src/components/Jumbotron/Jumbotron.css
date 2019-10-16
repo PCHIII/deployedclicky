@@ -9,7 +9,10 @@
 }
 
 .fa {
-    color:blue;
+    color:white;
     -webkit-text-stroke:4px rgb(177, 170, 169)
 }
 
+.blue {
+    color: blue;
+}
