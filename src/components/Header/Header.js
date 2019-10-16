@@ -13,7 +13,7 @@ const Header = props => (
           <span>Click a Cheerleader to Score!!</span>
         </div>
         <div className=" header-items nav-item ml-auto mr-2">
-          <span className="scores"> Your Score:  {props.currentScore}  <span className='divide pl-3 pr-3'>| </span> Top Score:  {props.topScore}
+          <span className="scores"> Your Score: <span className="num"> {props.currentScore} </span> <span className='divide pl-3 pr-3'>| </span> Top Score: <span className="num"> {props.topScore}</span>
           </span>
         </div>
       </div>
