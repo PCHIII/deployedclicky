@@ -3,6 +3,7 @@ import Header from "./Header/Header";
 import Jumbotron from "./Jumbotron/Jumbotron";
 import picturesJson from "../pictures.json";
 import PictureCard from "./PictureCard";
+import Footer from "./Footer/Footer";
 
 class GameContainer extends Component {
     state = {
@@ -97,7 +98,7 @@ class GameContainer extends Component {
                     id={i}
                     onClick={this.handlePictureClick}
                 />)}
-            
+            <Footer/>
             </div>
         );
     }
