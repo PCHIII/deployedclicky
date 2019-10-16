@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deployedclicky/static/css/main.e4d6fa6d.chunk.css",
+    "main.css": "/deployedclicky/static/css/main.cba9b09c.chunk.css",
     "main.js": "/deployedclicky/static/js/main.d3c5f4d9.chunk.js",
     "main.js.map": "/deployedclicky/static/js/main.d3c5f4d9.chunk.js.map",
     "runtime-main.js": "/deployedclicky/static/js/runtime-main.68991385.js",
@@ -8,14 +8,14 @@
     "static/js/2.6036d57b.chunk.js": "/deployedclicky/static/js/2.6036d57b.chunk.js",
     "static/js/2.6036d57b.chunk.js.map": "/deployedclicky/static/js/2.6036d57b.chunk.js.map",
     "index.html": "/deployedclicky/index.html",
-    "precache-manifest.c4cdff70e022e8222b52b745afd0c567.js": "/deployedclicky/precache-manifest.c4cdff70e022e8222b52b745afd0c567.js",
+    "precache-manifest.b8d4a7b414eaf2618ec1421f0fff8b2e.js": "/deployedclicky/precache-manifest.b8d4a7b414eaf2618ec1421f0fff8b2e.js",
     "service-worker.js": "/deployedclicky/service-worker.js",
-    "static/css/main.e4d6fa6d.chunk.css.map": "/deployedclicky/static/css/main.e4d6fa6d.chunk.css.map"
+    "static/css/main.cba9b09c.chunk.css.map": "/deployedclicky/static/css/main.cba9b09c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.68991385.js",
     "static/js/2.6036d57b.chunk.js",
-    "static/css/main.e4d6fa6d.chunk.css",
+    "static/css/main.cba9b09c.chunk.css",
     "static/js/main.d3c5f4d9.chunk.js"
   ]
 }
