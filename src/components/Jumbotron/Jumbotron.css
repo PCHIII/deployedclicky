@@ -4,4 +4,12 @@
     border-radius: 0 !important;
     padding-top: 40px;
     padding-bottom: 40px;
+    font-size: 31px;
+    
 }
+
+.fa {
+    color:blue;
+    -webkit-text-stroke:4px rgb(177, 170, 169)
+}
+
