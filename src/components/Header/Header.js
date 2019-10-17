@@ -10,7 +10,7 @@ const Header = props => (
         </button>
         </div>
         <div className="col-4 header-items text-center">
-          <span>Click a Cheerleader to Score!!</span>
+          <h1>The Cowboy Clicky Game</h1>
         </div>
         <div className=" header-items nav-item ml-auto mr-2">
           <span className="scores"> Your Score: <span className="num"> {props.currentScore} </span> <span className='divide pl-3 pr-3'>| </span> Top Score: <span className="num"> {props.topScore}</span>
