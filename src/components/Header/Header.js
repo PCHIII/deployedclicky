@@ -1,14 +1,18 @@
 import React from "react";
 import "./Header.css";
 
+
 const Header = props => (
     
       <div className="navbar navbar-expand-lg p-3 bg-primary text-white">
-        <div className="col-4 header-items">
+        <div className="col-2 header-items">
           <button type="button" onClick={props.resetGame} className="reload-link btn btn-dark btn-lg">
            START GAME
         </button>
         </div>
+        <audio src="./assets/Dixie_Outlandish.mp3" controls>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
         <div className="col-4 header-items text-center">
           <h1>The Cowboy Clicky Game</h1>
         </div>
