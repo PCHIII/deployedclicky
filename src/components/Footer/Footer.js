@@ -2,9 +2,9 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = props => (
-    <footer class="footer bg-primary fixed-bottom">
-    <div class="container text-center p-2">
-      <span class="text">Built with React<i class="fab fa-react pl-1"></i></span>
+    <footer className="footer bg-primary fixed-bottom">
+    <div className="container text-center p-2">
+      <span className="text">Built with React<i className="fab fa-react pl-1"></i></span>
     </div>
   </footer>
 )
