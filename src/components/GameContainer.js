@@ -12,7 +12,7 @@ class GameContainer extends Component {
         pictures: []
     }
 
-    componentWillMount() {
+    UNSAFE_componentWillMount() {
         const pictures = this.shuffle(picturesJson);
         this.setState({ pictures });
     }
