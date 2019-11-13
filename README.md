@@ -11,7 +11,7 @@ This app is a game built with React. There are 12 different cheerleaders.  The o
 
 ![](RMImage/Cowboys.JPG)
 - - -
-## Technolgies Used:
+## Technologies Used:
 - React
 - Bootstrap
 - Google Fonts
